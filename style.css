@@ -10,6 +10,11 @@
 html,body{
     height: 100%;
 }
+header{
+    font-size: 40px;
+    margin-bottom: 2em;
+    text-align: center;
+}
 main{
     width: 60%;
     height: 70vh;
